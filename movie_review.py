@@ -1,4 +1,5 @@
 # Write your movie_review function here:
+def movie_review(stars):
 
 # Uncomment these function calls to test your movie_review function:
 #print(movie_review(9))
