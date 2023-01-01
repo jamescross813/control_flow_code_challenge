@@ -1,5 +1,6 @@
 # Write your in_range function here:
 def in_range(num, lower, upper):
+    if(num>=lower and num<=upper):
 
 # Uncomment these function calls to test your in_range function:
 #print(in_range(10, 10, 10))
