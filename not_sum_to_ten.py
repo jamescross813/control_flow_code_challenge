@@ -1,5 +1,6 @@
 # Write your not_sum_to_ten function here:
-  
+def not_sum_to_ten(a, b):
+    
 # Uncomment these function calls to test your not_sum_to_ten function:
 #print(not_sum_to_ten(9, -1))
 # should print True
