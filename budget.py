@@ -1,5 +1,6 @@
 # Write your over_budget function here:
 def over_budget(budget, food_bill, electricity_bill, internet_bill, rent):
+    outgoing = food_bill + electricity_bill + internet_bill + rent
     
     
 # Uncomment these function calls to test your over_budget function:
