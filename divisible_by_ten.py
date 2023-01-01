@@ -1,5 +1,5 @@
 # Write your divisible_by_ten() function here:
-
+def divisible_by_ten(num):
 
 
 # Uncomment these print() function calls to test your divisible_by_ten() function:
