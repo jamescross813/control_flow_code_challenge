@@ -1,6 +1,6 @@
 # Write your in_range function here:
-def in_range(num1, num2, num3):
-    
+def in_range(num, lower, upper):
+
 # Uncomment these function calls to test your in_range function:
 #print(in_range(10, 10, 10))
 # should print True
