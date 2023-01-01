@@ -1,6 +1,8 @@
 # Write your large_power function here:
 def large_power(a, b): 
     result = a**b
+    if(result>=5000):
+        return True
     
 
 # Uncomment these function calls to test your large_power function:
